@@ -37,3 +37,9 @@
 >
 	systemctl stop dhcpcd@enp0s25.service
 	dhcpcd
+
+## Playing games
+> If you play games, there is a package you should install that is pretty
+> essential for gaming. (graphics)
+
+        pacman -S xorg-xrandr
